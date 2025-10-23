@@ -140,6 +140,8 @@ data/figures/*.jpg
 
 # VS Code
 .vscode/
+keys
+keys.pub
 
 # MacOS
 .DS_Store
